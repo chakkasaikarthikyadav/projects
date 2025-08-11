@@ -4,7 +4,7 @@ We have successfully developed a program that encrypts and decrypts the image fi
 
 Update README.md
 Recommended to used Linux based machine to avoid unexpected errors.\
-System: Ubuntu18.04.2 on Oracle VM VirtualBox\
+System: windows 10.11,Ubuntu18.04.2 on Oracle VM VirtualBox\
 Python version: 2.7.17\
 Libraries used:\
 numpy 1.13.3\
